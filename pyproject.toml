@@ -1,0 +1,8 @@
+[project]
+name = "aigenreqsample"
+version = "0.1.0"
+description = "Electronic child lock control domain model derived from SwRS2"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
